@@ -1,0 +1,6 @@
+{
+  "name": "VendorOrders",
+  "version": "1.0.0",
+  "private": true,
+  "main": "VendorOrders.js"
+}
